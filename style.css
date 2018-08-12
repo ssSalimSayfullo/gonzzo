@@ -1,0 +1,51 @@
+body{
+	background-image:url(http://hddesktopwallpapers.in/wp-content/uploads/2015/07/wood-wallpaper-dark-hd.jpg);
+}
+
+p{
+	color: black;
+}
+
+p{
+	font-size: 23px;
+}
+
+footer{
+	color: #00dd9999;
+	font-size: 20px
+}
+
+h2{
+	color: black;
+	background-color: brown;
+}
+li{
+	font-size: 20px
+}
+
+h2{
+	border: ridge;
+	border-color: #fff;
+	border-radius: 45px;
+}
+ 
+ .master{
+ 	text-align: right;
+ 	color: black;
+ }
+
+kbd{
+	font-size: 20px
+}
+
+h1{
+	color: #fff;
+}
+
+li{
+	color: #fff;
+}
+
+kbd{
+	color: #fff;
+}
